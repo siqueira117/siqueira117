@@ -1,7 +1,7 @@
 # Hi there 👋 My name is Erick
 ## Full Stack Software Developer
 
-I'm a 23 years old developer and programming is my passion since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech.
+I'm a 24 years old developer and programming is my passion since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech.
 
 * 🌍  I'm based in Rio de Janeiro, Brazil
 * 🧠  I'm learning Microsservices
@@ -10,7 +10,7 @@ I'm a 23 years old developer and programming is my passion since I was 18. I lov
 
 ### Socials
 <p align="left">   
-  <a href="https://www.github.com/santos117" target="_blank" rel="noreferrer">
+  <a href="https://www.github.com/siqueira117" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" />
   </a> 
   <a href="https://www.linkedin.com/in/erick-oliveira-dos-santos-0678a5185/" target="_blank" rel="noreferrer">
@@ -54,10 +54,6 @@ I'm a 23 years old developer and programming is my passion since I was 18. I lov
 
 ### Github Stats
 
-<a href="http://www.github.com/santos117"><img src="https://github-readme-stats.vercel.app/api?username=santos117&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="danielcranney's GitHub stats" /></a>
+<a href="http://www.github.com/siqueira117"><img src="https://github-readme-stats.vercel.app/api?username=siqueira117&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Erick's GitHub stats" /></a>
 
-<a href="http://www.github.com/santos117"><img src="https://github-readme-streak-stats.herokuapp.com/?user=santos117&stroke=ffffff&background=1c1917&ring=3382ed&fire=3382ed&currStreakNum=ffffff&currStreakLabel=3382ed&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/danielcranney"><img src="https://activity-graph.herokuapp.com/graph?username=santos117&bg_color=1c1917&color=ffffff&line=3382ed&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/santos117" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=santos117&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/siqueira117" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueira117&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" /></a>
