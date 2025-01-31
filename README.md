@@ -54,6 +54,14 @@ I'm a 24 years old developer and programming is my passion since I was 18. I lov
 
 ### Github Stats
 
-<a href="http://www.github.com/siqueira117"><img src="https://github-readme-stats.vercel.app/api?username=siqueira117&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="Erick's GitHub stats" /></a>
+<a href="https://github-readme-stats.vercel.app/api?username=siqueira117&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true">
+  <img 
+  src="https://github-readme-stats.vercel.app/api?username=siqueira117&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" 
+  alt="Erick's GitHub stats" />
+</a>
 
-<a href="https://github.com/siqueira117" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueira117&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" alt="Top Languages" /></a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueira117&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut" align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=siqueira117&langs_count=10&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages&layout=donut"
+    alt="Top Languages" />
+  </a>
