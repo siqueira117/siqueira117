@@ -7,7 +7,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=siqueira117" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=siqueira117&include_all_commits=true&count_private=true&theme=dark&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=siqueira117&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siqueira117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
