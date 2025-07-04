@@ -58,7 +58,7 @@
     <img height="100"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
 </div>
 
-</hr>
+<br/>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=siqueira117&include_all_commits=true&count_private=true&theme=dark&show_icons=true" height="150" alt="stats graph"  />
