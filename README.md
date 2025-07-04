@@ -5,8 +5,6 @@
 - 🕹️ Fun fact: **game addicted**
 - 🧠 I'm learning **Microsservices**
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
@@ -43,6 +41,10 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
     </a>
 </p>
+
+<div align="right">
+    <img  height="200"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
+</div>
 
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=siqueira117&include_all_commits=true&count_private=true&theme=dark&show_icons=true" height="150" alt="stats graph"  />
