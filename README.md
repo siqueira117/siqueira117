@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a 25 years old developer and programming is my passion since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech.<br><br>🌍 I'm based in Rio de Janeiro, Brazil<br>🧠 I'm learning Microsservices<br>🤝 I'm open to collaborating on projects that have a high impact in peoples lives<br>☕ Fun fact: coffee addicted</p>
+<p align="left">I'm a 25 years old developer and programming is my passion since I was 18. I love to code and figure it out how to solve deep problems using high-edge tech.<br><br>🌍 I'm based in Rio de Janeiro, Brazil<br>🧠 I'm learning Microsservices<br>🤝 I'm open to collaborating on projects that have a high impact in peoples lives<br>🕹️ Fun fact: game addicted</p>
 
 ###
 
