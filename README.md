@@ -42,8 +42,8 @@
     </a>
 </p>
 
-<div align="right">
-    <img  height="200"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
+<div>
+    <img height="150"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
 </div>
 
 <div align="center">
@@ -54,10 +54,10 @@
 
 <div align="center">
     <a href="https://www.linkedin.com/in/erick-siqueira-0678a5185/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
     </a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
     <a href="mailto:erick.siqueira117@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
     </a>
 </div>
