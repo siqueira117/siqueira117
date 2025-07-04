@@ -6,6 +6,7 @@
 - 🧠 I'm learning **Microsservices**
 
 <h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
@@ -42,6 +43,17 @@
     </a>
 </p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
+    <a href="https://www.linkedin.com/in/erick-siqueira-0678a5185/" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
+    </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
+    <a href="mailto:erick.siqueira117@gmail.com" target="_blank">
+        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
+    </a>
+</p>
+
 <div>
     <img height="150"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjF5YXB2YW9ycnljOGNxdDZlenl3bmFzeTJhNW15cTIxbm5xandybyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dZS4pApAUVJZe/giphy.gif"  />
 </div>
@@ -50,14 +62,4 @@
     <img src="https://github-readme-stats.vercel.app/api?username=siqueira117&include_all_commits=true&count_private=true&theme=dark&show_icons=true" height="150" alt="stats graph"  />
     <img src="https://streak-stats.demolab.com?user=siqueira117&locale=en&mode=weekly&theme=dark&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siqueira117&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-<div align="center">
-    <a href="https://www.linkedin.com/in/erick-siqueira-0678a5185/" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="40" height="40" alt="linkedin logo"  />
-    </a>
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" height="40" alt="discord logo"  />
-    <a href="mailto:erick.siqueira117@gmail.com" target="_blank">
-        <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" height="40" alt="gmail logo"  />
-    </a>
 </div>
